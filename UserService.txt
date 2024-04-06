@@ -1,3 +1,6 @@
 Get the user data...
 
 pwrform some operations.
+
+Create an avatar for the user.
+give customising outfit option.
